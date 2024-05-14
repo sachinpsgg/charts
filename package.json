@@ -1,7 +1,7 @@
 {
   "name": "charts",
   "version": "0.1.0",
-  "homepage": "https://sachinpsgg.github.io/reactcharts",
+  "homepage": "https://sachinpsgg.github.io/charts",
   "private": true,
   "dependencies": {
     "@faker-js/faker": "^8.4.1",
